@@ -1,7 +1,7 @@
 # Learn-Python
 Learn basic Python and OOPs python with assignments and projects
 
-## Learn paython [🔗](https://github.com/rkpassin132/Learn-Python/blob/main/Learn_Python.ipynb)
+## Learn python [🔗](https://github.com/rkpassin132/Learn-Python/blob/main/Learn_Python.ipynb)
 ## Assignments
 > 1. Basic Python program [👆](https://github.com/rkpassin132/Learn-Python/blob/main/Assignment_01_Python_Assignment.ipynb)
 > 2. Assignment 2: Challenges questions [👆](https://github.com/rkpassin132/Learn-Python/blob/main/Assignment_02_Challenge_Question.ipynb)
